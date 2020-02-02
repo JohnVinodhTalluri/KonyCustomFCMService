@@ -1,0 +1,2 @@
+include ':app', ':kony-push-notifications-apis', ':konywidgets'
+rootProject.name='CustomFCMService'
